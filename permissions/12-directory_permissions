@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir my-dir, chmod 751 my-dir, ls -ld my-dir
+mkdir "my-dir" chmod 751 "my-dir" ls -ld "my-dir"
+
