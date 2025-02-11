@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir "my-dir" chmod 751 "my-dir" ls -ld "my-dir"
+install -d -m 751 my_dir
