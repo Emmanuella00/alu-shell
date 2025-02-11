@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ "$(ls -l hello | awk '{print $3}')" = "guillaume" ], then sudo chown vincent hello, echo "Ownership changed to vincent.", else echo "The file hello is not owned by guillaume. No changes made.", fi
+if [ "$(ls -l hello | awk '{print $3}')" = "guillaume" ], then sudo chown vincent hello
