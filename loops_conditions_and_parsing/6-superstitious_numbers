@@ -7,7 +7,7 @@ while [ $i -le 20 ]
 do
 echo "$i"
 case $i in
-      "4") echo "Bad luck from China";;
+      "4") echo "Bad luck from china";;
       "9") echo "Bad luck from japan";;
       "17") echo "Bad luck from italy";;
   esac
